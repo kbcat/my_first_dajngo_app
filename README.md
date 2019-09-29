@@ -1,2 +1,0 @@
-# my_first_dajngo_app
-my_first_dajngo_app
